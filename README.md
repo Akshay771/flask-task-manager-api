@@ -105,7 +105,3 @@ curl -X DELETE http://flaskapp.work.gd/tasks/1
 - Use -v with curl to see detailed request and response info:
   curl -v -X GET http://flaskapp.work.gd/tasks
 
-
-## License
-
-MIT License
