@@ -28,8 +28,8 @@ app/
 ## Installation
 
 ### Clone the repository
-git clone <your-repo-url>
-cd todoApi/app
+git clone https://github.com/Akshay771/flask-task-manager-api.git
+cd flask-task-manager-api
 
 ### Create a virtual environment
 python3 -m venv .venv
